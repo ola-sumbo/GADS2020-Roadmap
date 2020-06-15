@@ -20,11 +20,13 @@ This roadmap aims to help you make a good selection of courses to learn in a pre
 ## Intermediate
 | Course Title    | Link        | Author          |
 |-----------------|--------------------------------------------------------------------------|-----------------|
-| Html, CSS and Javascript: The Big Picture                              | https://app.pluralsight.com/library/courses/html-css-javascript-big-picture                               | Barry Luijbregts |
-| Html Fundamentals                                | https://app.pluralsight.com/library/courses/html-fundamentals                               | Matt Milner|
-| Html5 Fundamentals                                | https://app.pluralsight.com/library/courses/html5-fundamentals                               | Craig Shoemaker |
-| Introduction to CSS                              | https://app.pluralsight.com/library/courses/c903146b-2899-4a14-9fdd-cd9c7a7e8204                               | Scott Allen  |
-| CSS Positioning                              | https://app.pluralsight.com/library/courses/505d61eb-0167-4dff-8d31-20b7f1a24085                               | Susan Simkins  |
+| Javascript: Getting Started                              | https://app.pluralsight.com/library/courses/javascript-getting-started                               | Mark Zamoyta |
+| Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.1)                              | https://app.pluralsight.com/library/courses/web-accessibility-meeting-guidelines      |  Gerard K. Cohen |
+| Javascript Fundamentals                                | https://app.pluralsight.com/library/courses/javascript-fundamentals                               | Mark Zamoyta |
+| Rapid ES6 Training                              | https://app.pluralsight.com/library/courses/rapid-es6-training                            | Mark Zamoyta |
+| Building a Javascript Development Environment                              | https://app.pluralsight.com/library/courses/1c9c8ed1-a332-4437-92da-a0972a7bccd3                               | Cory House |
+| Javascript Best Practices                              | https://app.pluralsight.com/library/courses/javascript-best-practices                            | Jonathan Mills|
+
 
 
 
