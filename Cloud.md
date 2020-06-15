@@ -9,9 +9,7 @@
 
 > Don't feel overwhelmed, if you have difficulties understanding concepts feel free to reach out to your peers or mentors. 
 
-***
-
-#### Beginner {#beginner}
+#### Beginner 
 ***
 | Course Title    | Link        | Author          |
 |-----------------|--------------------------------------------------------------------------|-----------------|
@@ -20,7 +18,7 @@
 | Foundations for Cloud Architecture                       | https://app.pluralsight.com/library/courses/cloud-architecture-foundations                         | James Bannan    |
 | Google Cloud Platform Fundamentals - Core Infrastructure | https://app.pluralsight.com/library/courses/google-cloud-platform-fundamentals-core-infrastructure | Google Cloud    |
 
-#### Intermediate {#intermediate}
+#### Intermediate
 ***
 | Course Title    | Link        | Author          |
 |-----------------|--------------------------------------------------------------------------|-----------------|
@@ -29,7 +27,7 @@
 | Elastic Google Cloud Infrastructure: Scaling and Automation | https://app.pluralsight.com/library/courses/elastic-google-cloud-infrastructure-scaling-automation | Google Cloud |
 | Getting Started with Google Kubernetes Engine               | https://app.pluralsight.com/library/courses/getting-started-google-kubernetes-engine               | Google Cloud |
 
-#### Advanced/Further study {#advanced}
+#### Advanced/Further study
 ***
 | Course Title    | Link        | Author          |
 |-----------------|--------------------------------------------------------------------------|-----------------|
@@ -37,7 +35,7 @@
 | Architecting with Google Kubernetes Engine - Workloads   | https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-workloads         | Google Cloud   |
 | Architecting with Google Kubernetes Engine - Production  | https://app.pluralsight.com/library/courses/architecting-google-kubernetes-engine-production-update | Google Cloud   |
 | Git: The Big Picture                                     | https://app.pluralsight.com/library/courses/git-big-picture                                         | Paolo Perrotta |
-#### Other Information {#other}
+#### Other Information
 | Title                    | Link                                                                |
 |--------------------------|---------------------------------------------------------------------|
 | Practice exam            | https://cloud.google.com/certification/practice-exam/cloud-engineer |
