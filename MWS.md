@@ -28,5 +28,15 @@ This roadmap aims to help you make a good selection of courses to learn in a pre
 | Javascript Best Practices                              | https://app.pluralsight.com/library/courses/javascript-best-practices                            | Jonathan Mills|
 
 
+## Advanced
+| Course Title    | Link        | Author          |
+|-----------------|--------------------------------------------------------------------------|-----------------|
+| HTML5 Web Component Fundamentals                             | https://app.pluralsight.com/library/courses/web-components-shadow-dom                               | Cory House |
+| Building on HTML5: Optimizing for Data, Communication and Offline Apps       | https://app.pluralsight.com/library/courses/html5-optimizing-data-communication-offline-apps                            | Craig Shoemaker |
+| Javascript Objects and Prototypes       | https://app.pluralsight.com/library/courses/javascript-objects-prototypes                            | Jim Cooper |
+| Practical Design Patterns in Javascript    | https://app.pluralsight.com/library/courses/javascript-practical-design-patterns                            | Jonathan Mills |
+
+
+
 
 
