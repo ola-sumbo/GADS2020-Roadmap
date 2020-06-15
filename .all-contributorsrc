@@ -26,6 +26,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Nyamador",
+      "name": "Desmond ",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48738520?v=4",
+      "profile": "http://Nyamador.me",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
     }
   ],
   "projectName": "GADS2020-Roadmap",
