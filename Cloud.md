@@ -39,5 +39,6 @@
 | Title                    | Link                                                                |
 |--------------------------|---------------------------------------------------------------------|
 | Practice exam            | https://cloud.google.com/certification/practice-exam/cloud-engineer |
+| Practice Q & A           | https://quizlet.com                                                 |
 | Certification exam guide | https://cloud.google.com/certification/guides/cloud-engineer        |
 | Docs                     | https://cloud.google.com/docs                                       |
