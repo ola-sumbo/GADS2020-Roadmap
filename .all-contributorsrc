@@ -36,6 +36,15 @@
         "ideas",
         "code"
       ]
+    },
+    {
+      "login": "udoyen",
+      "name": "george udosen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3130489?v=4",
+      "profile": "https://georgeudosennigeria.wordpress.com/",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "GADS2020-Roadmap",
