@@ -40,5 +40,6 @@
 |--------------------------|---------------------------------------------------------------------|
 | Practice exam            | https://cloud.google.com/certification/practice-exam/cloud-engineer |
 | Practice Q & A           | https://quizlet.com                                                 |
+| Intro to Linux 101       | https://training.linuxfoundation.org/training/introduction-to-linux |        
 | Certification exam guide | https://cloud.google.com/certification/guides/cloud-engineer        |
 | Docs                     | https://cloud.google.com/docs                                       |
