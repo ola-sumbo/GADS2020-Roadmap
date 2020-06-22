@@ -6,6 +6,7 @@
 /.idea/dataSources.local.xml
 # Editor-based HTTP Client requests
 /.idea/httpRequests/
+/.idea
 GADS2020-Roadmap.iml
 misc.xml
 modules.xml
